@@ -44,7 +44,8 @@
                  &kp LWIN &kp LWIN  &mo RAISE &kp LALT &kp SPACE    &kp SPACE &mo RAISE  &kp RCTRL &kp RALT  &kp RGUI
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_DN PG_UP &inc_dec_kp C_VOL_DN C_VOL_UP>;
+            //sensor-bindings = <&inc_dec_kp PG_DN PG_UP &inc_dec_kp C_VOL_DN C_VOL_UP>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
