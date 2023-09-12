@@ -40,7 +40,7 @@
 &none     &kp N0    &kp N9   &kp N8    &kp N7    &kp N6                          &kp N6    &kp N7    &kp N8    &kp N9   &kp N0   &none
 &kp BSPC  &kp P     &kp O    &kp I     &kp U     &kp Y                           &kp Y     &kp U     &kp I     &kp O    &kp P    &kp BSPC
 &kp SQT   &kp SEMI  &kp L    &kp K     &kp J     &kp H                           &kp H     &kp J     &kp K     &kp L    &kp SEMI &kp SQT
-&kp RSHFT &kp FSLH  &kp DOT  &kp COMMA &kp M     &kp B    &mo LOWER    &none     &kp N     &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
+&kp RSHFT &kp FSLH  &kp DOT  &kp COMMA &kp M     &kp N    &mo LOWER    &none     &kp N     &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
                     &kp LWIN &kp LWIN  &mo RAISE &kp LALT &kp SPACE    &kp SPACE &kp LALT  &mo RAISE &kp RALT  &kp RGUI
             >;
 
